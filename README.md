@@ -66,4 +66,4 @@
 
 ## Новости и связь
 
-[Telegram](https://t.me/StatCollector) · [VK](https://vk.ru/wotstatcollector) · [Issues](../../issues)
+[Telegram](https://t.me/StatCollector) · [VK](https://vk.ru/wotstatcollector) · [Issues](../../issues) · [Discussions](../../discussions)
